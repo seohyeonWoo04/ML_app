@@ -1923,3 +1923,17 @@ st.markdown("""
     <p>© 2026 | Designed with Cybernetic Light Grid Tech Layout</p>
 </div>
 """, unsafe_allow_html=True)
+
+
+
+st.markdown("---")
+
+st.markdown(
+    """
+    <div style='text-align: center; color: gray; font-size: 13px;'>
+    © 2026 Seohyeon Woo. This project is for educational and portfolio purposes.<br>
+    Unauthorized copying, redistribution, or commercial use is not permitted.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
