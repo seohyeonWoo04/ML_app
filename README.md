@@ -78,3 +78,5 @@ streamlit run app.py
 ## 🔒 윤리적 안전 장치 및 프라이버시
 - **Zero-trace 로컬 처리**: 취득된 카메라 이미지 프레임은 비휘발성 저장 매체에 일절 기록되지 않으며 CPU 휘발성 메모리상에서 표정 분석 즉시 영구 삭제(Zero-trace)됩니다.
 - **점멸 인디케이터**: 카메라 가동 중인 경우 안경테 측면에 부드러운 LED 신호가 점멸하여 피촬영자 및 대화 파트너의 초상권 프라이버시 침해 우려를 해소합니다.
+
+© 2026 Seohyeon Woo. This project is for educational and portfolio purposes. Unauthorized copying, redistribution, or commercial use is not permitted.
